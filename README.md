@@ -12,7 +12,7 @@ If there's a pre-existing mod that you're modifying, it's easiest to open that, 
 
 1. Get the pack file manager from SourceForge
 2. Install && run PackFileManager.exe
-3. Open that file, entire database tree, modify the pre-existing values
+3. Open that file, open the database tree, modify the pre-existing values
 4. Export that file
 5. Run the game, when the mod manager opens up tick your mod to turn it on in game
 
