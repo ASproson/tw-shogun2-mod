@@ -16,8 +16,6 @@ If there's a pre-existing mod that you're modifying, it's easiest to open that, 
 4. Export that file
 5. Run the game, when the mod manager opens up tick your mod to turn it on in game
 
-If you want to upload it to the steam workshop, double click your mod and then fill in the form to add to the workshop
-
 If isn't a pre-existing mod, essentially you'd have to:
 
 1. Get the pack file manager from SourceForge
@@ -25,6 +23,22 @@ If isn't a pre-existing mod, essentially you'd have to:
 3. Load in the full database
 4. Search the file you want to modify
 5. Repeat the steps above
+
+## Uploading your mod to the Steam Workshop
+
+If you want to upload it to the steam workshop you need to take a few extra steps.
+
+1. Once your .pack file is exported as above you'll initially see it in the folder `/Total War Shogun 2`, and it'll be within a folder that you named your mod
+2. The mod **must** be one word like so: 6SkillPointsGenerals
+3. In this folder you'll see your mod ending with the .pack file extension, copy this file
+4. In `/Total War Shogun 2/Data` paste this file if it doesn't already exist
+5. You'll need a **6SkillPointsGenerals.jpg** file in this folder. It **must** be named the same as the pack file. Any image will do, I just made something basic on GIMP as the thumbnail
+6. Start the game and let the mod window open:
+
+![image](https://user-images.githubusercontent.com/77736272/234576108-07e354a1-a131-4cc7-add0-df928503fb39.png)
+
+7. Double click the name of your mod and fill in the Title and Description
+8. Submit to the steam workshop
 
 ## Why not use BOB that comes with the Assembly Kit? 
 
