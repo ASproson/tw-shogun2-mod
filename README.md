@@ -1,10 +1,15 @@
 # Total War: Shogun 2 Mod
 
-Drop  this in your steam directory:
+This mod provides Generals 6 skill points on level up. I made this just because I felt that the right branch of the skill tree was pretty useless compared to the left branch, so this method allows you to essentially pick both and potentially try some of the other options. It's on the Steam Workshop [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2967436336) but wanted to store it on GitHub if the workshop ever disappears.
+
+Drop the `6SkillPointsGenerals` folder in your steam directory below:
 
 > C:\Program Files (x86)\Steam\steamapps\common\Total War SHOGUN 2
 
-This mod provides Generals 6 skill points on level up. I made this just because I felt that the right branch of the skill tree was pretty useless compared to the left branch, so this method allows you to essentially pick both and potentially try some of the other options. It's on the Steam Workshop but wanted to store it here if the workshop ever disappears.
+You should now have 6 skill points on each level rather than the standard 3 skill points, allowing you try more experimental builds/explore typically unused skill treees:
+
+![2118919001_preview_general](https://github.com/ASproson/tw-shogun2-mod/assets/77736272/a21666d8-4c6b-4dd7-aab7-83d24b5fc2c6)
+
 
 ## How to Mod in TW:S2
 
@@ -43,3 +48,9 @@ If you want to upload it to the steam workshop you need to take a few extra step
 ## Why not use BOB that comes with the Assembly Kit? 
 
 It's pretty crash heavy in 2023 and I found it wasn't saving/allowing exporting. PackFileManager is more stable and seems happy with Windows 10/11
+
+## Feedback
+
+Thanks for all positive comments, really didn't expect more than 1400 subscribers 🐱‍🏍
+
+![image](https://github.com/ASproson/tw-shogun2-mod/assets/77736272/906cdaa1-dcc9-40cb-bcf1-2413f5831736)
