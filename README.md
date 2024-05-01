@@ -51,6 +51,6 @@ It's pretty crash heavy in 2023 and I found it wasn't saving/allowing exporting.
 
 ## Feedback
 
-Thanks for all positive comments, really didn't expect more than 1400 subscribers 🐱‍🏍
+Thanks for all positive comments, really didn't expect so many subscribers 🐱‍🏍
 
 ![image](https://github.com/ASproson/tw-shogun2-mod/assets/77736272/906cdaa1-dcc9-40cb-bcf1-2413f5831736)
